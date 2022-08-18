@@ -5,7 +5,7 @@ The annotations are available for research community for
 further followup work and can be useful after getting access
 to DementiaBank dataset: https://sla.talkbank.org/TBB/dementia
 
-If you use dialog-act annotation from Cookie Theft dataset, or analysis from our paper, please cite the following:
+If you use DA annotation from Cookie Theft dataset, or analysis from our paper, please cite the following:
 @inproceedings{farzana-etal-2020-modeling,
     title = "Modeling Dialogue in Conversational Cognitive Health Screening Interviews",
     author = "Farzana, Shahla  and
@@ -23,7 +23,7 @@ If you use dialog-act annotation from Cookie Theft dataset, or analysis from our
     ISBN = "979-10-95546-34-4",
 }
 
-If you use dialog-act annotation from fluency dataset, or analysis from our paper, please cite the SIGDIAL 2022 paper:
+If you use DA annotation from fluency dataset, or analysis from our paper, please cite the SIGDIAL 2022 paper:
 
 ----citation to be updated after the SIGDIAL 2022 conference----
 
